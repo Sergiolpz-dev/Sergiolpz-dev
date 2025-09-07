@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Sergio
 
-**Desarrollador web en formación, enfocado en Frontend.**  
+**Desarrollador web, enfocado en Frontend.**  
 Actualmente aprendiendo **React**, **TypeScript** y mejores prácticas de UI. Construyo proyectos reales para seguir creciendo.
 
 ## 🚀 Proyectos destacados
