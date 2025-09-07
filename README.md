@@ -27,8 +27,7 @@ Actualmente aprendiendo **React**, **TypeScript** y mejores prácticas de UI. Co
 - Próximo objetivo: **Next.js** + base de datos.
 
 ## 📫 Contacto
-- LinkedIn: https://www.linkedin.com/in/tuusuario  
-- GitHub: https://github.com/tuusuario  
-- Email: tuemail@ejemplo.com
+- LinkedIn: https://www.linkedin.com/in/sergiolpz-dev/ 
+- Email: sergiolpz-dev@gmail.com
 
 
