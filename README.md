@@ -30,6 +30,6 @@ Actualmente aprendiendo **React**, **TypeScript** y mejores prácticas de UI. Co
 
 ## 📫 Contacto
 - LinkedIn: https://www.linkedin.com/in/sergiolpz-dev/ 
-- Email: sergiolpz-dev@gmail.com
+- Email: sergiolpz.dev@gmail.com
 
 
