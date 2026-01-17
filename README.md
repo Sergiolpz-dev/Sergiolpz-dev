@@ -3,6 +3,8 @@
 Soy Desarrollador con interés en crear aplicaciones bien estructuradas, eficientes y mantenibles. Actualmente curso el Grado Superior en Desarrollo de Aplicaciones Web (DAW), donde combino la formación académica con proyectos prácticos que me permiten aplicar y consolidar conocimientos técnicos.
 
 ## 🚀 Proyectos destacados
+- 🎬 **Corely** — Trabajo de Fin de Grado (TFG) **React**, **FastAPI**, **MariaDB** y **Docker**  
+  [Repo](https://github.com/JcDevProject24/Corely)
 - 🎬 **MiFlix (Demo v1)** — práctica de **Sass**, **BEM**, **Gulp** y **APIs**  
   [Repo](https://github.com/Sergiolpz-dev/MiFlix) · [Demo](https://miflix1.netlify.app/)
 - 🎉 **GifsApp** — buscador de GIFs con **React + TS + Axios**  
