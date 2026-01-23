@@ -7,6 +7,8 @@ Soy Desarrollador con interés en crear aplicaciones bien estructuradas, eficien
   [Repo](https://github.com/JcDevProject24/Corely)
 - 🎬 **MiFlix (Demo v1)** — práctica de **Sass**, **BEM**, **Gulp** y **APIs**  
   [Repo](https://github.com/Sergiolpz-dev/MiFlix) · [Demo](https://miflix1.netlify.app/)
+- 🤖 **Github Auditor - n8n** — Automatización con **n8n** e **IA** para auditoría de código  
+  [Repo](https://github.com/Sergiolpz-dev/Github-Auditor-n8n)
 - 🎉 **GifsApp** — buscador de GIFs con **React + TS + Axios**  
   [Repo](https://github.com/Sergiolpz-dev/GifsApp) · [Demo](https://gifsapp12.netlify.app/)
 - 🌐 **Portfolio** — hecho con **Astro + Tailwind**  
