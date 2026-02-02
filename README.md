@@ -4,15 +4,15 @@ Soy Desarrollador con interés en crear aplicaciones bien estructuradas, eficien
 
 ## 🚀 Proyectos destacados
 - 🎬 **Corely** — Trabajo de Fin de Grado (TFG) **React**, **FastAPI**, **MariaDB** y **Docker**  
-  [Repo](https://github.com/JcDevProject24/Corely)
+  [Repo](https://github.com/JcDevProject24/Corely) . En proceso
 - 🎬 **MiFlix (Demo v1)** — práctica de **Sass**, **BEM**, **Gulp** y **APIs**  
   [Repo](https://github.com/Sergiolpz-dev/MiFlix) · [Demo](https://miflix1.netlify.app/)
 - 🤖 **Github Auditor - n8n** — Automatización con **n8n** e **IA** para auditoría de código  
   [Repo](https://github.com/Sergiolpz-dev/Github-Auditor-n8n)
-- 🎉 **GifsApp** — buscador de GIFs con **React + TS + Axios**  
-  [Repo](https://github.com/Sergiolpz-dev/GifsApp) · [Demo](https://gifsapp12.netlify.app/)
+- 🎉 **Impostor** — juego viral hecho con **React + Tw + PWA**  
+  [Repo](https://github.com/Sergiolpz-dev/Impostor-juego) · [Ver aplicación](https://impostor.sergiolpz.cloud/)
 - 🌐 **Portfolio** — hecho con **Astro + Tailwind**  
-  [Repo](https://github.com/Sergiolpz-dev/Portfolio) · [Demo](https://sergiolpz-dev.netlify.app/)
+  [Repo](https://github.com/Sergiolpz-dev/Portfolio) · [Ver portafolio](https://sergiolpz-dev.netlify.app/)
 
 ## 🧰 Tech stack
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
