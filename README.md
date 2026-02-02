@@ -9,8 +9,10 @@ Soy Desarrollador con interés en crear aplicaciones bien estructuradas, eficien
   [Repo](https://github.com/Sergiolpz-dev/MiFlix) · [Demo](https://miflix1.netlify.app/)
 - 🤖 **Github Auditor - n8n** — Automatización con **n8n** e **IA** para auditoría de código  
   [Repo](https://github.com/Sergiolpz-dev/Github-Auditor-n8n)
-- 🎉 **Impostor** — juego viral hecho con **React + Tw + PWA**  
+- 🎉 **Impostor** — juego viral hecho con **React,Tw y PWA**  
   [Repo](https://github.com/Sergiolpz-dev/Impostor-juego) · [Ver aplicación](https://impostor.sergiolpz.cloud/)
+- 🧠 API rotatica de IA — Orquestador de IA con balanceo de carga y rotación de claves. **Bun**, **TS**  
+  [Repo](https://github.com/Sergiolpz-dev/api-ia-rotativa)
 - 🌐 **Portfolio** — hecho con **Astro + Tailwind**  
   [Repo](https://github.com/Sergiolpz-dev/Portfolio) · [Ver portafolio](https://sergiolpz-dev.netlify.app/)
 
