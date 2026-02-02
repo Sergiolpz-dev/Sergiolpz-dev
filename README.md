@@ -14,7 +14,7 @@ Soy Desarrollador con interés en crear aplicaciones bien estructuradas, eficien
 - 🧠 API rotatica de IA — Orquestador de IA con balanceo de carga y rotación de claves. **Bun**, **TS**  
   [Repo](https://github.com/Sergiolpz-dev/api-ia-rotativa)
 - 🌐 **Portfolio** — hecho con **Astro + Tailwind**  
-  [Repo](https://github.com/Sergiolpz-dev/Portfolio) · [Ver portafolio](https://sergiolpz-dev.netlify.app/)
+  [Repo](https://github.com/Sergiolpz-dev/Portfolio) · [Ver portafolio](https://sergiolpz.cloud/)
 
 ## 🧰 Tech stack
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
